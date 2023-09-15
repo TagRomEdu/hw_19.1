@@ -411,8 +411,6 @@ class MyServer(BaseHTTPRequestHandler):
                 </div>
             </div>
         </main>
-
-
     </div>
 
 </main>
