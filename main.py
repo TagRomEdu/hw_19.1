@@ -205,7 +205,7 @@ class MyServer(BaseHTTPRequestHandler):
     </symbol>
 </svg>
 
-<main>
+<main class="scrollarea">
     <h1 class="visually-hidden">Меню</h1>
 
     <div class="d-flex flex-column flex-shrink-0 p-3 text-white bg-dark" style="width: 280px;">
